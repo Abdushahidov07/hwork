@@ -84,3 +84,16 @@
 
 # harmonic_sum(int(input()))
 
+
+# task10
+
+# def reverse(a):
+#     b = ""
+#     for i in a[::-1]:
+#         if i.isupper():
+#             b += i.lower()
+#         else:
+#             b += i.upper()
+#     print(b)
+
+# reverse(input())
