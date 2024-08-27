@@ -74,3 +74,13 @@
 # def endword(a):
 #     print(a[1:len(a)+1])
 # endword(input())
+
+# task9
+# def harmonic_sum(n):
+#     cnt = 0
+#     for i in range(1, n+1):
+#         cnt += 1/i
+#     print(f"{cnt:.4f}")
+
+# harmonic_sum(int(input()))
+
