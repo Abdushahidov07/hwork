@@ -12,3 +12,12 @@
 #     return cnt
 
 # print(potatoes(input()))
+
+# task2
+# def five(a):
+#     cnt = 0
+#     for i in a:
+#         if i > 5:
+#             cnt+=i
+#     print(cnt)
+# five(list(map(int,input().split())))
