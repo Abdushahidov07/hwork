@@ -21,3 +21,9 @@
 #             cnt+=i
 #     print(cnt)
 # five(list(map(int,input().split())))
+
+# task3
+
+# def stuttering(a):
+#     print(f"{a[0]}{a[1]}... {a[0]}{a[1]}... {a}?")
+# stuttering(input())
