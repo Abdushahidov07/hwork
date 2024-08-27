@@ -56,3 +56,15 @@
 #         b=[a // 2, a - (a // 2)]
 #     print(b)
 # number_split(int(input()))
+
+
+# task7
+# def check_equals(list1, list2):
+#     if len(list1) != len(list2):
+#         return False
+#     for i in range(len(list1)):
+#         if list1[i] != list2[i]:
+#             return False
+#     return True
+
+# print(check_equals(list(map(int, input().split())), list(map(int, input().split()))))
