@@ -68,3 +68,9 @@
 #     return True
 
 # print(check_equals(list(map(int, input().split())), list(map(int, input().split()))))
+
+
+# task8    
+# def endword(a):
+#     print(a[1:len(a)+1])
+# endword(input())
