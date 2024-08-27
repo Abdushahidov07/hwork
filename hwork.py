@@ -46,3 +46,13 @@
 #         days += 1
 #     print(days)
 # end_corona(int(input()),int(input()),int(input()))
+
+# task6
+# def number_split(a):
+#     b=[]
+#     if a % 2 == 0:
+#         b=[a // 2, a // 2]
+#     else:
+#         b=[a // 2, a - (a // 2)]
+#     print(b)
+# number_split(int(input()))
