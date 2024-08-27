@@ -33,3 +33,16 @@
 # def discard(a, b):
 #     print(a-(a//100*b))
 # discard(int(input()),int(input()))
+
+# task5
+
+# def end_corona(a, b, c):
+#     if a <= b:
+#         return 0
+
+#     days = 0
+#     while c > 0:
+#         c -= (a - b)
+#         days += 1
+#     print(days)
+# end_corona(int(input()),int(input()),int(input()))
