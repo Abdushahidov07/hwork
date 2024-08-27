@@ -27,3 +27,9 @@
 # def stuttering(a):
 #     print(f"{a[0]}{a[1]}... {a[0]}{a[1]}... {a}?")
 # stuttering(input())
+
+# task4
+
+# def discard(a, b):
+#     print(a-(a//100*b))
+# discard(int(input()),int(input()))
